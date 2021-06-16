@@ -6,7 +6,7 @@
     "image": "profilepic.jpg",
     "bio": "ADHD, risk-taker, mom of 2, binge watching true crime, and automation enthusiast. Aspiring to create effective visual solutions that inform and persuade by fusing simplicity and computer science.",
     "contactmessage": "Let's Talk.",
-    "email": "lacey@laceycrenshaw.com",
+    "": "lacey@laceycrenshaw.com",
     "phone": "385-283-0360",
     "address": {
       "street": "American Fork",
@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "http://facebook.com/llcrensh",
         "className": "fa fa-facebook"
       },
       {
