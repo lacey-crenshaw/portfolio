@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Lacey Crenshaw",
+    "occupation": "Software Engineer",
+    "description": "Let's design a world that's thoughtful, considerate and aesthetically pleasing",
+    "image": "profilepic.jpg",
+    "bio": "ADHD, risk-taker, mom of 2, binge watching true crime, and automation enthusiast. Aspiring to create effective visual solutions that inform and persuade by fusing simplicity and computer science.",
+    "contactmessage": "Let's Talk.",
+    "email": "lacey@laceycrenshaw.com",
+    "phone": "385-283-0360",
+    "address": {
+      "street": "American Fork",
+      "city": "Utah",
+      "state": "Utah",
+      "zip": "84003"
+    },
+    "website": "http://www.laceycrenshaw.com",
+    "resumedownload": "https://jmp.sh/nWRUbkA+/resume-linkedin.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/laceycrenshaw",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lacey-crenshaw",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/lacealicious",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/lacey-crenshaw",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "The beginning... Neopets, circa 1999",
+    "education": [
+      {
+        "school": "Full Sail University",
+        "degree": "Bachelor of Science | Web Development",
+        "graduated": "Currently Enrolled | Expected 2023",
+        "description": "Continuing education in computer science and web development"
+      },
+      {
+        "school": "Mountainland Technical College",
+        "degree": "Certification of Completion | Web Programming & Development",
+        "graduated": "May 2021",
+        "description": "Professional development completed in web development and software engineering"
+      }
+    ],
+    "work": [
+      {
+        "company": "Qualtry",
+        "title": "Project Manager ",
+        "years": "May 2019 - May 2021",
+        "description": "Updated operational methods, oversaw accounting procedures, tracked information, and compiled data to improve efficiency."
+      },
+      {
+        "company": "Dead Creative LLC",
+        "title": "Web Developer",
+        "years": "January 2013 - Present",
+        "description": " Coded websites using HTML, CSS, JavaScript and jQuery languages."
+      },
+      {
+        "company": "Vivint",
+        "title": "Technical Policies and Procedures Manager",
+        "years": "August 2011 - October 2014",
+        "description": "Directed training programs and development paths for managers and supervisors."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Typescript",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Personal Portfolio",
+        "category": "Resume/portfolio template",
+        "image": "resume-website.png",
+        "url": "https://www.theconfidencetriangle.com/"
+      },
+      {
+        "title": "The Confidence Triangle",
+        "category": "Client Website | Confidence Coaching",
+        "image": "confidence-triangle.png",
+        "url": "https://www.theconfidencetriangle.com/"
+      },
+      {
+        "title": "Subscription App | Morbid: The Podcast",
+        "category": "(currently offline) A subscription based podcast for Morbid: The Podcast listeners",
+        "image": "morbid-podcast.jpeg",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Lacey displayed excellent professionalism, subject matter expertise, and went above and beyond our expectations during the entire process.",
+        "user": "Samantha Bryson | Full of Hot Air"
+      },
+      {
+        "text": "I took a look at the website, and it's great! Thank you again for your time and patience. My business partner and I are very grateful to you for the great work you did.",
+        "user": "T-Ann Pierce | The Confidence Triangle"
+      }
+    ]
+  }
+}
